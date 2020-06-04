@@ -1,0 +1,4 @@
+E0 is Brendan at CMU (potatobrendan-imu, not sure if we can track the raw data file)
+E1-E5 are from September.
+E1 is 14:01.24; E2 is 15:08.05 (random experts).
+E0a and E0b are Brendan from September (15:11.24 (mistake??) and 16:02.51 respectively)
